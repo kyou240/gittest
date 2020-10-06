@@ -1,0 +1,5 @@
+git clone http://sh-tfs2016:8080/tfs/SihoCollection/SimLine2/_git/Step1_ShinseishaJoho
+git clone --mirror http://sh-tfs2016:8080/tfs/SihoCollection/SimLine2/_git/Step1_ShinseishaJoho Step1_ShinseishaJoho_gi
+git push --mirror https://github.com/kyou240/simline2test.git
+git clone https://github.com/kyou240/simline2test.git
+
